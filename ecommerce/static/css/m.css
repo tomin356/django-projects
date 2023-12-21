@@ -1,0 +1,29 @@
+body
+{
+background:linear-gradient(to right,orchid, #41aade);
+font-family: 'Roboto', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link
+ {
+    color:black;
+}
+.footer{
+height:40px;
+width:100%;
+background:linear-gradient(to right,orchid, #41aade);
+position:fixed;
+bottom:0;
+left:0;
+text-align:center;
+font-weight:bold;
+}
+.navbar-light .navbar-brand {
+    color:black ;
+}
+.table-bordered
+{
+border: 2px solid black;
+}
+tbody, td, tfoot, th, thead, tr {
+    border: 1px solid black;
+}
